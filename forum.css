@@ -1,0 +1,10 @@
+<div class="footer_main_bottom">
+					<div class='ipsLayout_container'>
+						<div class="footer_main_bottom_flex">
+							{template="footer" app="core" group="global" params=""}
+							<div class="footer_main_bottom_copyrights">
+								Napravio: <a href="https://steamcommunity.com/id/d0MANO/" title="Dizajner/Dev" data-ipstooltip>Andrej</a>
+							</div>
+						</div>
+					</div>
+				</div>
